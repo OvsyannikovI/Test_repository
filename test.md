@@ -1,2 +1,2 @@
-Список всех веток:
-* git branch
+ git commit -a -m "message"
+ 
