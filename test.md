@@ -1,2 +1,2 @@
- git commit -a -m "message"
- 
+Для новой ветки команда:
+* git branch 
