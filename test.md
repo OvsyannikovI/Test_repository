@@ -1,2 +1,2 @@
 Для новой ветки команда:
-* git branch 
+* git branch branch_name
